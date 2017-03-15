@@ -1,0 +1,58 @@
+.container {
+	font-family: "Lato" , sans-serif ;
+	color: #2d3c49 ;
+	font-weight: 300 ;
+}
+
+.hh3 { 
+	color: black;
+	font-size: 50px ;
+}
+
+.paragraph {
+	font-size: 20px;
+}
+
+.nav {
+	border-color: #7d97ad ;
+	display: block;
+    margin: 0em auto 2em auto;
+    border-width: 5px;
+}
+
+.body_loc {
+	float : right ;
+	width : 100% ;
+}
+
+.text-muted {
+	color : #7d97ad;
+}
+
+.loc {
+	margin-top: 30px;
+}
+
+.text-thin {
+	font-weight: 100 ;
+}
+
+.front-end {
+	font-size: 22px ;
+	color: #2d3c49 ;
+}
+.title-super {
+	font-size: 60px ;
+	color: #2d3c49 ;
+	margin-top: 20px; 
+}
+
+.title-logo {
+	margin: 0px ;
+	padding: 0px ;
+}
+
+.footer {
+	text-align: center ;
+	float: right ;
+}
